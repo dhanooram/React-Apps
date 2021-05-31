@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Pattaya&display=swap");
+
+
+
+.navHead{
+    display: flex;
+    background-color: #393e46;
+    text-align: center;
+    height: 70px;
+}
+h1{
+    margin: 0;
+}
+.LogoTitle{
+   
+    margin-right: 120px;
+    margin-left: 10px;
+   margin-top: 10px;
+    color: #ff2e63;
+    font-family: 'Lobster', cursive;
+}
+.btnSet{
+    margin-left: 10px;
+}
+
+ul{
+    display: flex;
+    list-style-type:none;
+
+    
+}
+li{
+    margin: 0px 8px 0px;
+}
+button{
+    border: none;
+    background: none;
+    font-size: 16px;
+    color: cornsilk;
+}
+button:hover
+{
+    border: none;
+    background: none;
+    font-size: 16px;
+    color:wheat;
+}
+.ArrayContainer{
+    position: absolute;
+    margin:5px 10px;
+    padding: 30px;
+    align-items: center;
+    background: #393e46;
+}
+
+.array-bar{
+    background:rgb(18, 183, 233);
+    width: 5px;
+    display: inline-block;
+    margin: 0px 1px;
+}
+
+h4{
+    margin: 0;
+    margin-top: 5px;
+    margin-left: 10px;
+    color: rgb(67, 34, 255);;
+}
